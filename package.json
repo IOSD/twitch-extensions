@@ -1,0 +1,14 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "simple tst app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MANINDER SINGH",
+  "license": "ISC",
+  "dependencies": {
+    "tmi.js": "^1.2.1"
+  }
+}
