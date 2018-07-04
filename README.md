@@ -6,3 +6,6 @@ Docs: https://dev.twitch.tv/docs/extensions/
 Video: https://www.twitch.tv/videos/239080621?collection=OyTEQp87HBVBbQ
 
 **Skills Required:** Experience with basic HTML/JS, JSON Objects and Twitch API.
+
+**Senior Mentors for this Project**
+- [Dhruv Ramdev](http://github.com/dhruvramdev)
